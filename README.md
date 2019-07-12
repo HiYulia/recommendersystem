@@ -4,7 +4,7 @@ Build 3 different types of recommendation systems by using the yelp data to pred
 Evaluate the accuracy of recommendation systems through RMSE.
 
 Case1:Model-based CF recommendation system with SparkMLlib
-
+Alternating Least Square (ALS) 
 Case2:User-based CF recommendation system
 
 Case3: Item-based CF recommendation system
